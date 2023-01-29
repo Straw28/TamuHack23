@@ -1,0 +1,154 @@
+:root { 
+  --almond: #edd8d0;
+  --almond-2: #ecd8d0;
+  --black: #000000;
+  --caribbean-green: #0cd8a0;
+  --deep-blush: #e37d91;
+  --eunry: #e1a5a4;
+  --hopbush: #d873b1;
+  --jungle-green: #34b390;
+  --just-right: #ebc7b9;
+  --lola: #dec4e2;
+  --misty-moss: #c2b376;
+  --night-shadz: #aa2462;
+  --night-shadz-2: #ac285e;
+  --night-shadz-3: #ad245e;
+  --night-shadz-4: #ad2b5c;
+  --serenade: #fdf4e9;
+  --shocking: #e68db6;
+  --white: #ffffff;
+ 
+  --font-size-l: 40px;
+  --font-size-m: 36px;
+  --font-size-s: 24px;
+  --font-size-xl: 48px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-semi-bold-night-shadz-36px {
+  color: var(--night-shadz);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-semi-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-semi-bold-white-36px-2 {
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-semi-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-semi-bold-shocking-36px {
+  color: var(--shocking);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-bold-night-shadz-40px {
+  color: var(--night-shadz-3);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-night-shadz-48px {
+  color: var(--night-shadz-4);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-night-shadz-40px-2 {
+  color: var(--night-shadz-2);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-hopbush-40px {
+  color: var(--hopbush);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-deep-blush-40px {
+  color: var(--deep-blush);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-eunry-40px {
+  color: var(--eunry);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-misty-moss-40px {
+  color: var(--misty-moss);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-jungle-green-40px {
+  color: var(--jungle-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-night-shadz-40px-3 {
+  color: var(--night-shadz);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-semi-bold-night-shadz-24px {
+  color: var(--night-shadz);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-semi-bold-serenade-36px {
+  color: var(--serenade);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
